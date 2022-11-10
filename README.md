@@ -1,2 +1,2 @@
 # Python_Akademi
-SistersLab Python Akademi Python Ders Notları Yer Almaktadır
+SistersLab Women In Tech Academy tarafından gerçekleştirilen 3 ay boyunca gördüğüm Python eğitimin notları paylaşılmaktadır.
